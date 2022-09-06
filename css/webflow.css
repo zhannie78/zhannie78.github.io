@@ -1256,7 +1256,7 @@ textarea.w-select {
   max-height: 100vh;
 }
 .w-lightbox-group .w-lightbox-image {
-  max-height: 86vh;
+  max-height: 200vh;
 }
 .w-lightbox-caption {
   position: absolute;
